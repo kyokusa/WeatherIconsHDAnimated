@@ -1,3 +1,2 @@
-# WeatherIconsHDAnimated
-
-This is just the missing project XBT file, for the full package download release.
+# WeatherIconsCloudAnimated
+Addon for Kodi Weather with images svg free and created by me in animation
